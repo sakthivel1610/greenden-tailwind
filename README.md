@@ -1,4 +1,4 @@
-#Greenden-tailwind
+#Greenden-tailwind :
 A responsive and modern website for Greenden, built using HTML and Tailwind CSS. This project includes three key pages: Home, Products, and Contact, designed to promote eco-friendly products and initiatives.
 
 Features
@@ -10,3 +10,7 @@ Tailwind CSS: Utilizes a utility-first CSS framework for fast, scalable, and cus
 Technologies Used
 HTML: For structuring the website content.
 Tailwind CSS: For styling and ensuring responsiveness.
+Pages
+Home: The main landing page introducing Greenden and its mission.
+Products: Displays a list of eco-friendly products available for purchase.
+Contact: A page with a contact form and details to reach out to the Greenden team
