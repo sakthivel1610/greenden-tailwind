@@ -7,9 +7,11 @@ Home Page: Highlights the core mission of Greenden with an attractive hero secti
 Products Page: Showcases eco-friendly products with a clean and organized layout.
 Contact Page: Provides users with a form to get in touch, including essential contact details.
 Tailwind CSS: Utilizes a utility-first CSS framework for fast, scalable, and customizable styling.
+
 Technologies Used
 HTML: For structuring the website content.
 Tailwind CSS: For styling and ensuring responsiveness.
+
 Pages
 Home: The main landing page introducing Greenden and its mission.
 Products: Displays a list of eco-friendly products available for purchase.
